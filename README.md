@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O DevLinks é um agregador de links para usar como cartão de visitas online.
 
-- [Acesse o projeto finalizado, online](https://github.com/somentebruno/projeto-dev-links)
+- [Acesse o projeto finalizado, online](somentebruno.github.io/projeto-dev-links)
 
 ## 🔖 Layout
 
